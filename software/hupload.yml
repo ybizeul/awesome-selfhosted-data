@@ -1,0 +1,19 @@
+# software name
+name: "Hupload"
+# URL of the software project's homepage
+website_url: "https://github.com/ybizeul/hupload"
+# URL where the full source code of the program can be downloaded
+source_code_url: "https://github.com/ybizeul/hupload"
+# description of what the software does, shorter than 250 characters, sentence case
+description: "Hupload is a minimalist file sharing solution for your customers."
+# list of license identifiers, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/blob/master/licenses.yml for the full list of licenses
+licenses:
+  - GPL-3.0
+# list of languages/platforms, see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/platforms for the full list of platforms
+platforms:
+  - Go
+  - Nodejs
+  - Docker
+# list of tags (categories), see https://github.com/awesome-selfhosted/awesome-selfhosted-data/tree/master/tags for the full list of tags
+tags:
+  - File Transfer - Web-based File Managers
